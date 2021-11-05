@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamshid Ghalaeizadeh
+- 👋 Hi, I’m Jamshid Ghalaeizadeh (#jghalaei)
 - 👀 I’m interested in Java Script, Node js, C# and so on
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on ...
